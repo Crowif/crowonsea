@@ -1,2 +1,4 @@
 # crowonsea
+
+### BIOGRAPHY
 I hold a Bachelor's Degree in Philosophy and I'm now a full-stack developer. This is just the beginning - my next step is to master Machine Learning. Why? With my humanistic background, I believe this historic moment in AI development is transformative. AI will reshape every aspect of society: work, politics, and culture. This is our chance to shape the future responsibly. My goal is to specialize in AI Ethics.
